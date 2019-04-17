@@ -147,7 +147,7 @@ Temporary Items
 # Windows thumbnail cache files
 Thumbs.db
 ehthumbs.db
-ehthumbs_vista.db
+ehthumbs_v[<72;17;5Mista.db
 
 # Dump file
 *.stackdump
@@ -171,3 +171,4 @@ $RECYCLE.BIN/
 *.db
 
 # End of https://www.gitignore.io/api/linux,macos,windows,intellij+all,visualstudiocode
+
